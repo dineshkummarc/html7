@@ -45,16 +45,16 @@ In the browser:
 
 ## Hand-Crafted Tags
 
-* `<tenacious>`
-* `<pilgrimage>`
-* `<captivating>`
-* `<engaging>`
-* `<whimsical>`
-* `<provacative>`
-* `<festive>`
-* `<delightful>`
-* `<rustic>`
-* `<nature-inspired>`
+* `>tenacious<`
+* `>pilgrimage<`
+* `>captivating<`
+* `>engaging<`
+* `>whimsical<`
+* `>provacative<`
+* `>festive<`
+* `>delightful<`
+* `>rustic<`
+* `>nature-inspired<`
 
 ## License
 
