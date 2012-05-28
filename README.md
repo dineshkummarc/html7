@@ -35,6 +35,14 @@ before your eyes.
 >/html<
 ```
 
+## Installation
+
+In the browser:
+
+```html
+<script src="html7.js"></script>
+```
+
 ## Hand-Crafted Tags
 
 * `<tenacious>`
