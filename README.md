@@ -20,6 +20,11 @@ before your eyes.
 - Comments can go directly within tags. Ever wanted to comment that attribute?
   Now you can! `<div /* here comes an ID! */id="foo">`.
 
+- New tags to better describe the emotions we're trying to evoke for our
+  intrepid users. Bolding text that is not quite `<strong>`, but perhaps
+  more `<tenacious>`. Or perhaps you're making a `<div>` that is more of
+  a `<pilgrimage>`. Now you can! The full list of tags is below.
+
 ## Example
 
 ```html
@@ -29,3 +34,16 @@ before your eyes.
 >body<
 >/html<
 ```
+
+## Hand-Crafted Tags
+
+* `<tenacious>`
+* `<pilgrimage>`
+* `<captivating>`
+* `<engaging>`
+* `<whimsical>`
+* `<provacative>`
+* `<festive>`
+* `<delightful>`
+* `<rustic>`
+* `<nature-inspired>`
